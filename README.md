@@ -36,7 +36,7 @@ Your favorite app developers (me & [@kshriv](https://github.com/kshriv)) decided
 
 • Learning more about Swift and the app development process.
 
-• Focus on creating the application as programmatically as possible in order to bettwr understand UIKit and Swift objects
+• Focus on creating the application as programmatically as possible in order to better understand UIKit and Swift objects
 
 • Focus on creating a very efficient [win checking ability](https://github.com/thearijain/MixIt/blob/master/ReadMePictures/isWin()%20(2).pdf).
 
